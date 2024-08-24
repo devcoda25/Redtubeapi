@@ -1,0 +1,23 @@
+{
+    "name": "devcoda25/redtube",
+    "description": " RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "devcoda25\\Redtube\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devcoda25"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "myclabs/php-enum": "^1.8",
+        "illuminate/support": "^10.48",
+        "jms/serializer": "^3.30",
+        "doctrine/common": "^3.4"
+    }
+}
