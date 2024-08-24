@@ -1,5 +1,5 @@
 {
-    "name": "devcoda/redtube",
+    "name": "devcoda/redtubeapi",
     "description": " RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application",
     "type": "library",
      "keywords": ["adult", "videos", "porn", "adult-videos", "porn-videos", "api"],
