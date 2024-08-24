@@ -1,7 +1,8 @@
 {
-    "name": "devcoda25/redtube",
+    "name": "devcoda/redtube",
     "description": " RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application",
     "type": "library",
+     "keywords": ["adult", "videos", "porn", "adult-videos", "porn-videos", "api"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -10,7 +11,8 @@
     },
     "authors": [
         {
-            "name": "devcoda25"
+           "name": "Turyomwe Derrick 0r devcoda25",
+            "email": "devcoda25@gmail.com"
         }
     ],
     "require": {
